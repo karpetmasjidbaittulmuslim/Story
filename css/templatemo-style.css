@@ -124,7 +124,7 @@ p:last-child { margin-bottom: 0; }
 .box-nav-item:focus .box-text-nav-item,
 .box-nav-item.active .box-text-nav-item {	
 	color: black;
-	border: 1px solid black;
+	border: 1px solid #2fff;
 }
 
 /* footer */
@@ -139,7 +139,7 @@ p:last-child { margin-bottom: 0; }
 .footer a {	color: rgba(255, 255, 255, 0.8); }
 
 .copyright-text { 
-	color: rgba(255, 255, 255, 0.8);
+	color: #fff;
 	font-size: 0.8em;	
 }
 
